@@ -49,12 +49,12 @@ export type ProcessStep = {
 
 export const siteConfig = {
   brand: {
-    name: "Marcus Reed",
-    initials: "MR",
+    name: "Macho Code",
+    initials: "MC",
     tagline: "Gym Website Specialist",
     description:
       "High-converting gym websites that turn visitors into paying members.",
-    email: "hello@marcusreed.studio",
+    email: "hallowpers@gmail.com",
     socials: [
       { label: "Twitter", href: "#" },
       { label: "Instagram", href: "#" },
@@ -110,13 +110,13 @@ export const siteConfig = {
       link: "#",
     },
     {
-      name: "Apex CrossFit Box",
+      name: "Iron Fist MNL",
       category: "CrossFit Box",
       result: "+150 trial sign-ups",
       description:
         "Trainer profiles, social proof, and a sticky lead form built for mobile-first members.",
       image: "/images/project3.png",
-      link: "#",
+      link: "https://boxing-ph.lovable.app/",
     },
   ] as Project[],
 
@@ -137,9 +137,9 @@ export const siteConfig = {
     },
     {
       name: "Devon Brooks",
-      role: "Head Coach, Apex CrossFit",
+      role: "Head Coach, Iron Fist MNL",
       quote:
-        "Fast, beautiful, and built to convert. Marcus understands gyms better than any agency we tried.",
+        "Fast, beautiful, and built to convert. Macho Code understands gyms better than any agency we tried.",
       image: "/images/testimonial3.png",
     },
   ] as Testimonial[],
