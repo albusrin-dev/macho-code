@@ -92,22 +92,22 @@ export const siteConfig = {
 
   projects: [
     {
-      name: "Iron Gym",
-      category: "Strength & Conditioning",
+      name: "Iron Fist MNL",
+      category: "Boxing - Muay Thai - MMA",
       result: "+200 leads / month",
       description:
         "A bold, conversion-first redesign with a free-trial funnel that tripled qualified inquiries.",
       image: "/images/project1.png",
-      link: "#",
+      link: "https://boxing-ph.lovable.app/",
     },
     {
-      name: "Pulse Fitness Studio",
-      category: "Boutique Studio",
+      name: "Coach Rafa",
+      category: "Personal Boxing and Strength Coaching",
       result: "+85% class bookings",
       description:
         "Integrated class schedule and one-tap booking turned browsers into booked sessions.",
       image: "/images/project2.png",
-      link: "#",
+      link: "https://coach-rafa.lovable.app/",
     },
     {
       name: "Iron Fist MNL",
