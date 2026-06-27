@@ -110,13 +110,13 @@ export const siteConfig = {
       link: "https://coach-rafa.lovable.app/",
     },
     {
-      name: "Iron Fist MNL",
-      category: "CrossFit Box",
+      name: "IronForge",
+      category: "Gym Shop",
       result: "+150 trial sign-ups",
       description:
-        "Trainer profiles, social proof, and a sticky lead form built for mobile-first members.",
+        "Fitness Coach Shopping Website: Creatine, Whey Protien, Brand Shirt, Nutrition Plan, WOrkout Plan",
       image: "/images/project3.png",
-      link: "https://boxing-ph.lovable.app/",
+      link: "https://gym-shop-rho.vercel.app/",
     },
   ] as Project[],
 
